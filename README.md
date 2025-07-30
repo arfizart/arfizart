@@ -47,9 +47,7 @@ Hi! I’m **Arfi Zulfiansyah**, an **IT Generalist & Web Developer** based in Bo
 ---
 
 ## 📈 GitHub Stats:
-<!-- Optional, can be uncommented later -->
-<!--
-![](https://github-readme-stats.vercel.app/api?username=arfizulfiansyah&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arfizulfiansyah&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arfizulfiansyah&theme=dark&hide_border=true&layout=compact)
--->
+![](https://github-readme-stats.vercel.app/api?username=arfizart&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arfizart&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arfizart&theme=dark&hide_border=true&layout=compact)
+
